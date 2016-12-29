@@ -7,7 +7,7 @@ public class dog {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		
-		
+			// hi
 			test ts =new test();
 			ts.setName("hi");
 			ts.setSex("女");
@@ -47,13 +47,7 @@ public class dog {
 //		        System.out.println(" 操作 " + s.getClass().getName() + " 類型使用的時間為： "  
 //		                + (over - begin) + " 毫秒 ");  
 //			
-			
-			
-			
 
-			
-			
-			
 	}
 }
 class test{
